@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "password": "password123",
+      "password": "$2a$10$7h5gNlzQK4aeKdd8BAx2Ne2A4o1FtmdfTJc.p23rM.UvNI3W.Nd0K",
       "name": "Andrew",
       "status": "ITMO student",
       "email": "andrew@example.com",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "password": "password456",
+      "password": "$2a$10$7h5gNlzQK4aeKdd8BAx2Ne2A4o1FtmdfTJc.p23rM.UvNI3W.Nd0K",
       "name": "Maria",
       "status": "Freelancer",
       "email": "maria@example.com",
@@ -18,16 +18,18 @@
     },
     {
       "id": "3",
-      "password": "password789",
+      "password": "$2a$10$7h5gNlzQK4aeKdd8BAx2Ne2A4o1FtmdfTJc.p23rM.UvNI3W.Nd0K",
       "name": "John",
       "status": "Photographer",
       "email": "john@example.com",
       "profilePicture": "../mock_data/users/profile-picture3.jpg"
     },
     {
-      "id": "26b6",
-      "email": "",
-      "password": "123"
+      "id": "a895",
+      "email": "example@example.com",
+      "password": "$2a$10$7h5gNlzQK4aeKdd8BAx2Ne2A4o1FtmdfTJc.p23rM.UvNI3W.Nd0K",
+      "name": "andrey",
+      "status": "student"
     }
   ],
   "rentalHistory": [
