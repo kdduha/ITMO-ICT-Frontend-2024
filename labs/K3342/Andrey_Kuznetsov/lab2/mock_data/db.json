@@ -248,6 +248,12 @@
       "dialogId": 1,
       "sender": "user",
       "text": "hi"
+    },
+    {
+      "id": "87ea",
+      "dialogId": "1",
+      "sender": "user",
+      "text": "привет! "
     }
   ]
 }
